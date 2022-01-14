@@ -22,7 +22,8 @@ __РАБОТАЮ ПО ОФОРМЛЕННОМУ, ЧЕТКОМУ ТЗ. СРОКИ 
 ![alt text](screenshots/lk.png "Личный кабинет")
 2. __[ГУИ/КЛИЕНТ]__ (1.7.10) NectMenu, изменённые дефолтные гуи майнкрафта.
 ![alt text](screenshots/menu1.jpg "GuiMainMenu")
-![alt text](screenshots/menu2.jpg "GuiIngameMenu")
+![alt text](screenshots/menu2.png "GuiIngameMenu")
+![alt text](screenshots/menu3.png "GuiDownloadTerrain")
 3. __[АДДОН/СЕРВЕР]__ (1.7.10) SpaceTechnologies, мод-аддон для HiTech сервера. Реализовано: панельки, энергохранилища, автоспавнер, генераторы материи (1-10 ур), генераторы нейтрония. <br>
 ![alt text](screenshots/spawner.png "Spawner")
 ![alt text](screenshots/st.png "")

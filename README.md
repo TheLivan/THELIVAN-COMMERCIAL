@@ -39,6 +39,8 @@ __РАБОТАЮ ПО ОФОРМЛЕННОМУ, ЧЕТКОМУ ТЗ. СРОКИ 
 8. __[ГУИ/CЕРВЕР]__ (1.7.10) SpaceUniverseCase. <br>
 ![alt text](screenshots/cases1.png "Выбор кейса")
 ![alt text](screenshots/cases2.png "Получение предмета")
+9. __[МОД/CЕРВЕР]__ (1.7.10) OrintaleVending. <br>
+![alt text](screenshots/tlvending.png "Магазин Orintale")
 # Мои проекты
 
 1. [Eternal Darkness](https://vk.com/eternaldarknessmc) <br>

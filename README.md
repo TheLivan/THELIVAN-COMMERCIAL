@@ -24,28 +24,30 @@ __РАБОТАЮ ПО ОФОРМЛЕННОМУ, ЧЕТКОМУ ТЗ. СРОКИ 
 4. __[ГУИ/CЕРВЕР]__ (1.7.10) CubaCabinet, личный кабинет в игре, реализовано: покупка привелегий, магазин предметов, кейсы, покупка китов. <br>
 ![alt text](screenshots/lk1.png "Личный кабинет")
 ![alt text](screenshots/lk2.png "Личный кабинет")
-4. __[ГУИ/КЛИЕНТ]__ (1.7.10) NectMenu, изменённые дефолтные гуи майнкрафта.
+5. __[ГУИ/КЛИЕНТ]__ (1.7.10) NectMenu, изменённые дефолтные гуи майнкрафта.
 ![alt text](screenshots/menu1.jpg "GuiMainMenu")
 ![alt text](screenshots/menu2.png "GuiIngameMenu")
-4. __[ГУИ/КЛИЕНТ]__ (1.7.10) AurMineWarp, удобная система варпов.
+6. __[ГУИ/КЛИЕНТ]__ (1.7.10) AurMineWarp, удобная система варпов.
 ![alt text](screenshots/warp1.png "Меню")
 ![alt text](screenshots/warp2.png "Создание варпа")
-5. __[АДДОН/СЕРВЕР]__ (1.7.10) SpaceTechnologies, мод-аддон для HiTech сервера. Реализовано: панельки, энергохранилища, автоспавнер, генераторы материи (1-10 ур), генераторы нейтрония. <br>
+7. __[АДДОН/СЕРВЕР]__ (1.7.10) SpaceTechnologies, мод-аддон для HiTech сервера. Реализовано: панельки, энергохранилища, автоспавнер, генераторы материи (1-10 ур), генераторы нейтрония. <br>
 ![alt text](screenshots/spawner.png "Spawner")
 ![alt text](screenshots/st.png "")
-6. __[ГУИ/CЕРВЕР]__ (1.7.10/1.12.2) NectTrade, мод на обмены между игроками, имеет чат, есть поддержка iConomy. <br>
+8. __[ГУИ/CЕРВЕР]__ (1.7.10/1.12.2) NectTrade, мод на обмены между игроками, имеет чат, есть поддержка iConomy. <br>
 ![alt text](screenshots/tradeN.png "Уведомление")
 ![alt text](screenshots/trade.png "Сама гуи")
-7. __[МОД/CЕРВЕР]__ (1.7.10) AuroraShop, мод на витрины продажи предметов, имеет поддержку iConomy. <br>
+9. __[МОД/CЕРВЕР]__ (1.7.10) AuroraShop, мод на витрины продажи предметов, имеет поддержку iConomy. <br>
 ![alt text](screenshots/mg.png "Управление магазином")
 ![alt text](screenshots/mg1.png "Покупка предмета")
-8. __[ГУИ/CЕРВЕР]__ (1.7.10) SpaceUniverseCase. <br>
+10. __[ГУИ/CЕРВЕР]__ (1.7.10) SpaceUniverseCase. <br>
 ![alt text](screenshots/cases1.png "Выбор кейса")
 ![alt text](screenshots/cases2.png "Получение предмета")
-9. __[МОД/CЕРВЕР]__ (1.7.10) OrintaleVending. <br>
+11. __[МОД/CЕРВЕР]__ (1.7.10) OrintaleVending. <br>
 ![alt text](screenshots/tlvending.png "Магазин Orintale")
 # Мои проекты
 
-1. [Eternal Darkness](https://vk.com/eternaldarknessmc) <br>
-2. [NectHub](https://necthub.ru/) <br>
-3. [RPMine](https://vk.com/rpmineserver) <br>
+1. [Eternal Darkness](https://vk.com/eternaldarknessmc)
+2. [RPMine](https://vk.com/rpmineserver)
+3. [Arda](https://vk.com/ardalotr)
+4. [GrandGear](https://grandgear.top/)
+5. [FrostLand](https://frostland.pro/)

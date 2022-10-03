@@ -23,12 +23,13 @@ __РАБОТАЮ ПО ОФОРМЛЕННОМУ, ЧЕТКОМУ ТЗ. СРОКИ 
 # Мои работы
 1. __[МОД/CЕРВЕР]__ (1.7.10) TLCleaner. Мод заменяюзщий плагин на очистку, имеет больший функционал, и более удобен.
 2. __[МОД/CЕРВЕР]__ (1.7.10) Кастомизация скина персонажа. ![alt text](screenshots/cust.jpg "Кастомизация")
+2. __[МОД/CЕРВЕР]__ (1.7.10) Кастомный инвентарь игрока. ![alt text](screenshots/inventory.png "Инвентарь")
 3. __[ГУИ/CЕРВЕР]__ (1.7.10) CubaCabinet, личный кабинет в игре, реализовано: покупка привелегий, магазин предметов, кейсы, покупка китов. <br>
 ![alt text](screenshots/lk1.png "Личный кабинет")
 ![alt text](screenshots/lk2.png "Личный кабинет")
 4. __[ГУИ/КЛИЕНТ]__ (1.7.10) NectMenu, изменённые дефолтные гуи майнкрафта.
-![alt text](screenshots/menu1.jpg "GuiMainMenu")
-![alt text](screenshots/menu2.png "GuiIngameMenu")
+![alt text](screenshots/menu1.jpg "MainMenu")
+![alt text](screenshots/menu2.png "IngameMenu")
 5. __[ГУИ/КЛИЕНТ]__ (1.7.10) AurMineWarp, удобная система варпов.
 ![alt text](screenshots/warp1.png "Меню")
 ![alt text](screenshots/warp2.png "Создание варпа")

@@ -50,6 +50,5 @@ __РАБОТАЮ ПО ОФОРМЛЕННОМУ, ЧЕТКОМУ ТЗ. СРОКИ 
 
 1. [Eternal Darkness](https://vk.com/eternaldarknessmc)
 2. [RPMine](https://vk.com/rpmineserver)
-3. [Arda](https://vk.com/ardalotr)
-4. [GrandGear](https://grandgear.top/)
-5. [FrostLand](https://frostland.pro/)
+3. [GrandGear](https://grandgear.top/)
+4. [FrostLand](https://frostland.pro/)

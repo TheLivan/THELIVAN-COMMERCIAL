@@ -44,6 +44,8 @@ __Принимаю оплату через криптовалюту.__
 7. __[ГУИ/CЕРВЕР]__ NectTrade, мод на обмены между игроками, имеет внутренний чат, есть поддержка iConomy <br>
 ![alt text](screenshots/tradeN.png "Уведомление")
 ![alt text](screenshots/trade.png "Сама гуи")
+8. __[МОД/CЕРВЕР]__ Wiki Aratorn RPG, внутриигровое вики меню <br>
+![alt text](/nectwiki.jpg "Управление магазином")
 8. __[МОД/CЕРВЕР]__ AuroraShop, мод на витрины продажи предметов, имеет поддержку iConomy <br>
 ![alt text](screenshots/mg.png "Управление магазином")
 ![alt text](screenshots/mg1.png "Покупка предмета")

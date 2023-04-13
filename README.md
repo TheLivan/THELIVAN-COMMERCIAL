@@ -1,7 +1,7 @@
 # THELIVAN COMMERCIAL
 Меня зовут Марк и я Java-разработчик. Предоставляю услуги в сфере майнкрафт-моддинга.
 Берусь за сложные, интересные заказы, так и за фиксы. Верстаю гуи. <br>
-ВК - [***тык***](https://vk.com/badcodemylife) <br>
+ВК - [***тык***](https://vk.com/thelivan) <br>
 Telegram -  [***тык***](https://t.me/thelivan) <br>
 Сайт -  [***тык***](https://thelivan.ru)
 

@@ -27,12 +27,18 @@ __Принимаю оплату через Binance.__
 4. Дизайн предоставляется заказчиком.
 # ПРИМЕРЫ РАБОТ
 1. __[МОД/CЕРВЕР]__ TLCleaner. Мод заменяюзщий плагин на очистку, имеет больший функционал, и более удобен.<br>
-2. __[CЕРВЕР/КЛИЕНТ]__ Metrocraft 2036 множество меню, тех лидерство проекта.
-![alt text](screenshots/mk1.png "Инвентарь")
-![alt text](screenshots/mk2.png "ПДА")
-![alt text](screenshots/mk3.png "ESQ-меню")
-![alt text](screenshots/mk4.png "Загрузка")
-![alt text](screenshots/mk5.png "Осмотр оружия")
+2. __[CЕРВЕР/КЛИЕНТ]__ Metrocraft 2036. Разработка проекта, тех лидерство.
+![alt text](screenshots/mk1.png "")
+![alt text](screenshots/mk2.png "")
+![alt text](screenshots/mk3.png "")
+![alt text](screenshots/mk4.png "")
+![alt text](screenshots/mk5.png "")
+![alt text](screenshots/mk6.png "")
+![alt text](screenshots/mk7.png "")
+![alt text](screenshots/mk8.png "")
+![alt text](screenshots/mk9.png "")
+![alt text](screenshots/mk10.png "")
+![alt text](screenshots/mk11.png "")
 3. __[МОД/CЕРВЕР]__ Меню кастомизации персонажа ![alt text](screenshots/cust.jpg "Кастомизация")
 4. __[МОД/CЕРВЕР]__ Кастомный инвентарь игрока c системой сумок, и аттибутов игрока ![alt text](screenshots/inventory.png "Инвентарь")
 5. __[ГУИ/CЕРВЕР]__ CubaCabinet, личный кабинет в игре, реализовано: покупка привелегий, магазин предметов, кейсы, покупка китов. <br>
